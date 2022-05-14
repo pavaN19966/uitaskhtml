@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>React App</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css ">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css"  />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Anton&family=Open+Sans:ital@1&family=Roboto+Slab:wght@600&family=Satisfy&display=swap" rel="stylesheet">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Anton&family=Open+Sans:ital@1&family=Roboto+Slab:wght@600&family=Satisfy&family=Varela+Round&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="style.css">
+  
+
+</head>
+<body>
+  <!-- header part start -->
+    <div class="topheader">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2">
+                    <img src="proimages/log.jpg"alt="logo" class="logo"/>
+                   <img src="proimages/logo2.png" class="logo1" /> 
+
+                  </div>
+                      <div class="col-md-5">
+                           <ul>
+                             <li>Learn</li>
+                              <li>Product</li>
+                              <li>Pricing</li>
+                         </ul>
+                      </div>
+                      <div class="col-md-5">
+                      <ul>
+                          <li>Book A Demo</li>
+                           <li>Sign In</li>
+                      <li><input type="button" class="btn btn-primary" value="Try for Free" /></li>
+                      </ul>
+                     </div>
+                  </div>
+             </div>
+         </div>
+		 <!-- header part end-->
+		 
+	<!-- communicate part start -->
+		<div class="banner">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6">
+                  <h2 class="text-whites">One Platform to Communicate,<br/>
+                    Collaborate and accelerate</h2>
+                    <p class="skills">slikk helps more tasks done in less time <br/>
+                     it's Everything you need to work faster<br/>
+                     Collaborate better,and improve productivity at your workplace 
+                       </p>
+                       <p class="call">50% <i class="fa fa-arrow-down" aria-hidden="true"></i><span class="text-white"> &nbsp; &nbsp; Call and Meetings</span></p>
+                       <p class="call">45% <i class="fa fa-arrow-up" aria-hidden="true"></i> <span class="text-white"> &nbsp; &nbsp;Golas Achived</span></p>
+                       <p class="call">3X  <span class="text-white"> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Productivity</span></p>
+                        <span class="btn btn-warning btn-warnings">Start Your Free Trail</span> <span class="btn btn-success text-white">Give a Live Demo</span>
+
+                    </div>
+                  <div class="col-md-6">
+                      <img src="proimages/ima.png" alt="ima" class="img1" />
+
+
+                  </div>
+                  <img src="proimages/ellipsesmall.png" alt="img2" class="img2" /> <span class="addvisible"> Add Visibility to your Work </span>
+                  </div>
+        </div>
+    </div>
+	<!-- communicate part end -->      
+                     
+                     <br />
+                     <br />
+                     <div class="row margin-adjust">
+                    <div class="col-md-4">
+                        <div class="img3">
+                      <img src="proimages/Icon1.png" class="img-3" alt="Cinque Terre" />
+                         </div>
+                         <br/>
+                         <h4>Work & Forecasting</h4>
+ 
+                      </div>
+                      <div class="col-md-4">
+                        <div class="img3">
+                      <img src="proimages/icon2.png" class="img-3" alt="Cinque Terre" />
+                         </div>
+                         <br/>
+                         <h4>Work & Forecasting</h4>
+
+                      </div>
+                      <div class="col-md-4">
+                        <div class="img3">
+                      <img src="proimages/icon3.png" class="img-3" alt="Cinque Terre" />
+                         </div>
+                          <br/>
+                         <h4>Work & Forecasting</h4>
+
+                      </div>
+                       <img src="proimages/ebig.png" class="position" alt="elipse" />
+
+                       
+                  </div>
+              <!-- Time  management part start  -->
+                  <div class="container">
+                       <div class="row">
+                        <div class="col-md-6 time p-4">
+                           <h2>Time Management</h2>
+                           <p>Find and fix anything that eats time.<br/>
+                           Lavender continuously learns what <br/>
+                           time works best for you. The dashboard <br/>
+                           helps you schedule time,manage capacity,<br/>
+                           organize global calendars, and track milestones <br/>
+                           at work. It also shows the current <br/>
+                           status of projects and where you can <br/>
+                           make changes to reduce the workload.</p>
+                           <span class="know bg-primary text-center">Know More</span>
+                          </div>
+                             <div class="col-md-6 ">
+                               <img src="proimages/Group.png" class="img7" alt="groupbanner" />
+                             </div>
+                        </div>
+                      </div>
+                  <!-- Time  management part end  -->
+
+         <!-- Task Management start -->
+		 
+                  <div class="container">
+                      <div class="row">
+                       <div class="col-md-6 img81">
+                               <img src="proimages/Group973.png" class="img8" alt="groupbanner" />
+                             </div>
+                        <div class="col-md-6 time time2">
+                           <h2>Task Management</h2>
+                           <p>Teamleap is trained to find and organize<br/>
+                           tasks in terms of their priority. Each task<br/>
+                           has a workflow that shows the brief,<br/>stakeholders, and deadlines. If the<br/>
+                            requirement changes anytime, all the<br/>assignments get shuffled accordingly.<br/>
+                            You also have other options like easy<br/>
+                            search, recurring tasks,and multitask<br/> toolbar.</p>
+                           <span class="know bg-primary text-center">Know More</span>
+                          </div>
+                             
+                        </div>
+                      </div>
+					  
+          <!-- Task Management end -->
+              
+			 <!-- Kanban part start -->
+			 
+                  <div class="container">
+                       <div class="row">
+                        <div class="col-md-6 time p-4">
+                           <h2>Kanban</h2>
+                           <p> Setup in minutes, streamline your work and boost the productivity of your teams. Manage your projects with better task routing and easy workload planning. With intuitive intake forms and customizable workflows, your team can release quality products in less time.</p>
+                           <span class="know bg-primary text-center">Know More</span>
+                          </div>
+                             <div class="col-md-6">
+                               <img src="proimages/Group974.png" class="img8" alt="groupbanner" />
+                             </div>
+                        </div>
+                      </div>
+            <!-- kanban part end  -->
+			
+            <!--  Create Save Share part start  -->
+             <div class="container">
+                       <div class="row">
+                         <div class="col-md-6 img81">
+                          <img src="proimages/Group975.png" class="img8" alt="groupbanner" />
+                             </div>
+                        <div class="col-md-6 time time2">
+                           <h2>Create. Save. Share.</h2>
+                           <p>Most digital assets get dropped into some random folder without a central storage location. Now, have all your files in one secure cloud storage to maintain brand consistency and repurpose at scale. Plus, keep things regulated with simple permission settings.</p>
+                           <span class="know bg-primary text-center">Know More</span>
+                          </div>
+                             
+                        </div>
+                      </div>
+           <!-- Create Save Share part end --> 
+			 
+			<!-- Testimonals part start -->
+              <div class='container'>
+                 <h3 class="test">Testimonals</h3>
+                   <div class='row'>
+              
+                   <div class='col-md-8 testimonials'>
+                     <img src="proimages/ivana.png" class="img11" alt="image11" />
+                   <div class="quotes">
+                   <p><i class="fa fa-quote-left fas" aria-hidden="true"></i> &nbsp;
+                     
+                    Haoto has been in integral part of our<br/>
+                    Work Eco system,Keeping track of things has <br/>
+                    <span class="alan">Alan Thicke,Manager,Polymer </span><br/>
+
+                    <img src="proimages/Icon4.png" class="img12" alt="img12" /> <span class="polymer">POLYMER</span> <br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       <i class="fa fa-quote-right" aria-hidden="true"></i></p>
+                    <img src="proimages/ellipsesmall.png" class="smallelipse" alt="smallelipse" />
+                   </div>
+                   <img src="proimages/ebig.png" class="elipseposition" alt="alipse" />
+
+                 </div>
+               </div>
+            </div>
+		<!-- Testimonals part  end -->
+		
+		<!-- Footer part start -->
+		   <div class="footer">
+            <div class="search">
+            
+                <img src="proimages/footerlogo.png" class="footerlogo" alt="footerlogo" />
+                 <h2 class="text-dark task">Task Management made simple</h2>
+               <div class="book">
+                 <button class="btns">BOOK A DEMO</button>
+             </div>
+           </div>
+           <div class="containers">
+        <div class="containers-title">
+          <h1>Hapto also works great on smaller screens</h1>
+          <div>
+            <img src="proimages/Group1.png" alt="ok" />
+            <img src="proimages/Group2.png" alt="ok" />
+          </div>
+        </div>
+        <div>
+          
+            <div class="row">
+			<div class="col-md-2">
+                <ol class="text-white">
+				  <h3>Learn</h3>
+				  <li>Help</li>
+				  <li>Onboarding</li>
+				  <li>Blog</li>
+				  <li>Hierarchy</li>
+				  <li>Support</li>
+				  <li>Articles</li>
+				</ol>
+                    
+                  </div>
+				   <div class="col-md-2">
+				    
+                <ol class="text-white">
+				   <h3>Product</h3>
+				  <li>Tasks</li>
+				  <li>Goals</li>
+				  <li>Import</li>
+				  <li>Docs</li>
+				  <li>Reporting</li>
+				</ol>
+                  </div>
+				    <div class="col-md-2">
+				       <ol class="text-white">
+				        <h3>Use Cases</h3>
+				          <li>Tasks</li>
+				          <li>Goals</li>
+				          <li>Import</li>
+				          <li>Docs</li>
+				          <li>Reporting</li>
+					   </ol>
+                    </div>
+					
+					<div class="col-md-2">
+				       <ol class="text-white">
+				        <h3>Features</h3>
+				          <li>360<sup>O</sup>Visibility</li>
+				          <li>Time Management</li>
+				          <li>Kanban</li>
+				          <li>File Sharing</li>
+				          <li>Reporting& Analaytics</li>
+				          <li>Nudge Cards</li>
+				          <li>Vs Todoist</li>
+				          <li>Vs Smartsheet</li>
+				          <li>Vs Zoho</li>
+				          <li>Vs EverNote</li>
+				          </ol>
+                    </div>
+					
+					<div class="col-md-2">
+				       <ol class="text-white">
+				        <h3>Resource</h3>
+				          <li>Tasks</li>
+				          <li>Goals</li>
+				          <li>Import</li>
+				          <li>Docs</li>
+				          <li>Reporting</li>
+					   </ol>
+                    </div>
+					<div class="col-md-2">
+				       <ol class="text-white">
+				         <h3>Slikk</h3>
+				          <li>Tasks</li>
+				          <li>Goals</li>
+				          <li>Import</li>
+				          <li>Docs</li>
+				          <li>Reporting</li>
+					   </ol>
+                    </div>
+					
+                </div>
+          </div>
+        </div>
+      
+  
+  <div class="copywrite">
+          <div>
+            <h1 class="title">Teamleap</h1>
+            <h1>© 2021 all right reserved</h1>
+          </div>
+          <div class="fb">
+            <img  src="proimages/facebook.png" alt="facebook" />
+            <img src="proimages/twitter.png" alt="twitter" />
+            <img src="proimages/linkedin.png" alt="linkdin" />
+            <img src="proimages/youtube.png" alt="youtube" />
+            <img src="proimages/instagram.png" alt="instagram" />
+          </div>
+        </div>
+      </div>
+	 </div>
+</body>
